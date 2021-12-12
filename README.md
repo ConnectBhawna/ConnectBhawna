@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhawna </h1>
 
-<a href="#"><img width="40%" height="auto" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47uazfq99adpwucytv6xcpu9fte7pvjkaoaucwgulw&rid=200.webp&ct=g" height="175px"
-/></a>
 <a  href="#"><img width="30%" height="auto" src="https://media0.giphy.com/media/4GaHBQh3f4jBEpbQvP/200w.webp?cid=ecf05e47yvbqqq7a0uv4wzvho75ze5s26n5p8brpsiqrergp&rid=200w.webp&ct=g" height="175px"/></a> 
 
 <h3> 
