@@ -16,7 +16,6 @@
 
                 def __init__(self):
                   self.name  =  "Bhawna chauhan"
-                  self.role  =  "Android Developer"
                   self.language_spoken  =  ["hi_IN", "en_US"]
                   currently.working  =  "Personal Project"
                   currently.learning  =  "Android Development"
@@ -35,7 +34,7 @@
 -->
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **A10Dance**
+- 🔭 I’m currently exploring Android dev
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
