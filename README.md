@@ -1,32 +1,33 @@
+<h1 align="center">Hi 👋, I'm Bhawna</h1>
+<h3 align="center">A passionate computer science student from India</h3>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhawna </h1>
-
-<a  href="#"><img width="30%" height="auto" src="https://media0.giphy.com/media/4GaHBQh3f4jBEpbQvP/200w.webp?cid=ecf05e47yvbqqq7a0uv4wzvho75ze5s26n5p8brpsiqrergp&rid=200w.webp&ct=g" height="175px"/></a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+</p>
 
 <h3> 
      Welcome to Bhawna's profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
 </h3>
 
-<br>
+<p>
 
-#!/usr/bin/python
+      #!/usr/bin/python
 
-        class Developer:
+           class Developer:
 
-                def __init__(self):
-                  self.name  =  "Bhawna chauhan"
-                  self.language_spoken  =  ["hi_IN", "en_US"]
-                  currently.working  =  "Personal Project"
-                  currently.learning  =  "Android Development"
-                  looking.to_collaborate  =  "upcoming Open soure Programs"
-                  looking.for.help.with_learning_and_exploring.more.in  =  "Android Devlopment"
+                 def __init__(self):
+                   self.name  =  "Bhawna chauhan"
+                   self.language_spoken  =  ["hi_IN", "en_US"]
+                   currently.working  =  "Personal Project"
+                   currently.learning  =  "Android Development"
+                   looking.to_collaborate  =  "Web3 or crypto Startup"
+                   looking.for.help.with_learning_and_exploring.more.in  =  "Android Devlopment and Blockchain"
         
-               def say_hi(self):
+                def say_hi(self):
                    print( " Thanks for dropping by, hope you find some of my work interesting. " )
 
 
-<br>
+</p>
 
 
 <!--
@@ -34,31 +35,47 @@
 -->
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently exploring Android dev
+- 🔭 I’m currently exploring Web3
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **bhawnabc2002@gmail.com**
 
 - ⚡ Fun fact **I like reading books and watching horror movies.**
+- 
+- 👨‍💻 All of my projects are available at [github](https://github.com/Bhawna1203?tab=repositories)
+
 
 ## 🚀 Languages,Software and Tools:
 
 <p>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="66" ></a>
+
+<a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"></a>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="#"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3"></a>
+     <br>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
+<a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff"></a>
+<a href="#"><img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"></a>
+<a href="#"><img alt="GitHubhttps" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>
+     <br>
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="90" ></a>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="90" ></a>
+
+
+</p>     
 
 <p>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="75" ></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
+<a href="#"><img alt="Linux" src="http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff" ></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" width="70"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" width="90"></a>
 </p>
 
 <br />
@@ -94,8 +111,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bhawna-chauhan-00a32a200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/BhawnaC18275984?t=CvNYst1mt3205EcytAjLbA&s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/bhawna-chauhan-00a32a200/"><img src="https://img.shields.io/badge/-bhawnaChauhan-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:bhawnabc2002@gmail.com"><img src="https://img.shields.io/badge/-bhawnabc2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
+<a href = "https://twitter.com/BhawnaC18275984?t=CvNYst1mt3205EcytAjLbA&s=09"><img src="https://img.shields.io/badge/-@bhawnaChauhan-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
 </p>
 
