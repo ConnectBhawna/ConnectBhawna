@@ -44,7 +44,7 @@
 - 📫 How to reach me **bhawnabc2002@gmail.com**
 
 - ⚡ Fun fact **I like reading books and watching horror movies.**
-- 
+
 - 👨‍💻 All of my projects are available at [github](https://github.com/Bhawna1203?tab=repositories)
 
 
