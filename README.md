@@ -60,7 +60,6 @@
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3">
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff">
-<a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-%23C
 <a href="#"><img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
   <br>
