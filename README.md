@@ -18,10 +18,10 @@
                  def __init__(self):
                    self.name  =  "Bhawna chauhan"
                    self.language_spoken  =  ["hi_IN", "en_US"]
-                   currently.working  =  "Personal Project"
-                   currently.learning  =  "Android Development"
+                   currently.working  =  "MusicVerse"
+                   currently.learning  =  "Blockchain Development"
                    looking.to_collaborate  =  "Web3 or crypto Startup"
-                   looking.for.help.with_learning_and_exploring.more.in  =  "Android Devlopment and Blockchain"
+                   looking.for.help.with_learning_and_exploring.more.in  =  "Blockchain"
         
                 def say_hi(self):
                    print( " Thanks for dropping by, hope you find some of my work interesting. " )
