@@ -28,9 +28,9 @@
       |            print( " Thanks for dropping by, hope you find some of my work interesting. " )
       |
       |        def reachOut_to_me(self):
-      |           self.Website               = https://bio.link/bhawna
-      │          self.Twitter               = https://twitter.com/Bhawna1203
-      │          self.Telegram              = https://telegram.me/bhawna
+      |            self.Website               = https://bio.link/bhawna
+      │            self.Twitter               = https://twitter.com/Bhawna1203
+      │            self.Telegram              = https://telegram.me/bhawna
       |      
       |
 ──────┴──────────────────────────────────────────────────────────────
