@@ -9,44 +9,34 @@
      Welcome in my profile!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
 </h3>
 
-<p>
-
-      #!/usr/bin/python
-
-           class Developer:
-
-                 def __init__(self):
-                   self.name  =  "Bhawna chauhan"
-                   self.language_spoken  =  ["hi_IN", "en_US"]
-                   currently.working  =  "MusicVerse"
-                   currently.learning  =  "Blockchain Development"
-                   looking.to_collaborate  =  "Web3 or crypto Startup"
-                   looking.for.help.with_learning_and_exploring.more.in  =  "Blockchain"
-        
-                def say_hi(self):
-                   print( " Thanks for dropping by, hope you find some of my work interesting. " )
-
-
-</p>
-
-
-<!--
-----------------------------------------------------
--->
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently exploring Web3
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **bhawnabc2002@gmail.com**
-
-- ⚡ Fun fact **I like reading books and Drawing.**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/Bhawna1203?tab=repositories)
-
+```
+📂 ~/git:(master) ⚡
+❯❯❯ cat ~/whoami🙋‍♂️.md
+──────┬──────────────────────────────────────────────────────────────
+      │ File: /home/bhawna/whoami🙋‍♂️.md
+──────┼──────────────────────────────────────────────────────────────
+      |  class Developer:
+      |        def __init__(self):
+      |            self.name                =  "Bhawna chauhan"
+      |            self.language_spoken     =  ["hi_IN", "en_US"]
+      |            currently.working        =  " Tezos Ecosystem"
+      |            currently.learning       =  "Blockchain Development"
+      |            looking.to_collaborate   =  "Web3 or crypto Project"
+      |            looking.for.help         =  "Blockchain"
+      |
+      |        def say_hi(self):
+      |            print( " Thanks for dropping by, hope you find some of my work interesting. " )
+      |
+      |        def reachOut_to_me(self):
+      |           self.Website               = https://bio.link/bhawna
+      │          self.Twitter               = https://twitter.com/Bhawna1203
+      │          self.Telegram              = https://telegram.me/bhawna
+      |      
+      |
+──────┴──────────────────────────────────────────────────────────────
+📂 ~/code
+❯❯❯
+```
 
 ## 🚀 Languages,Software and Tools:
 
