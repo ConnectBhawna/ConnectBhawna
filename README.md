@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bhawna</h1>
-<h3 align="center">A passionate computer science student from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
-</p>
-
-<h3> 
-     Welcome in my profile!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-</h3>
 
 ```
 📂 ~/git:(master) ⚡
