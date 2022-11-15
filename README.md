@@ -9,7 +9,7 @@
       |        def __init__(self):
       |            self.name                =  "Bhawna chauhan"
       |            self.language_spoken     =  ["hi_IN", "en_US"]
-      |            currently.working        =  " Tezos Ecosystem"
+      |            currently.working        =  " Side Project"
       |            currently.learning       =  "Blockchain Development"
       |            looking.to_collaborate   =  "Web3 or crypto Project"
       |            looking.for.help         =  "Blockchain"
