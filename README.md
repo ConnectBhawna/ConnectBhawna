@@ -7,7 +7,7 @@
 ──────┼──────────────────────────────────────────────────────────────
       |  class Developer:
       |        def __init__(self):
-      |            self.name                =  "Bhawna chauhan"
+      |            self.name                =  "Bhawna "
       |            self.language_spoken     =  ["hi_IN", "en_US"]
       |            currently.working        =  " Side Project"
       |            currently.learning       =  "Blockchain Development"
@@ -67,16 +67,17 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Bhawna1203/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhawna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhawna1203&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/ConnectBhawna/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhawna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ConnectBhawna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Bhawna1203/github-readme-stats"><img alt="Bhawna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bhawna1203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Bhawna1203/github-readme-stats"><img alt="bhawna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawna1203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/ConnectBhawna/github-readme-stats"><img alt="Bhawna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ConnectBhawna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      
+  <a href="https://github.com/ConnectBhawna/github-readme-stats"><img alt="Bhawna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnectBhawna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -87,11 +88,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bhawna-chauhan-00a32a200/"><img src="https://img.shields.io/badge/-bhawnaChauhan-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href = "https://www.linkedin.com/in/ConnectBhawna/"><img src="https://img.shields.io/badge/-bhawnaChauhan-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:bhawnabc2002@gmail.com"><img src="https://img.shields.io/badge/-bhawnabc2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
-<a href = "https://twitter.com/BhawnaC18275984?t=CvNYst1mt3205EcytAjLbA&s=09"><img src="https://img.shields.io/badge/-@bhawnaChauhan-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href = "https://twitter.com/ConnectBhawna"><img src="https://img.shields.io/badge/-@bhawnaChauhan-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
 </p>
 
