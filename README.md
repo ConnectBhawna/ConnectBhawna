@@ -10,16 +10,14 @@
       |            self.name                =  "Bhawna "
       |            self.language_spoken     =  ["hi_IN", "en_US"]
       |            currently.working        =  " Side Project"
-      |            currently.learning       =  "Blockchain Development"
-      |            looking.to_collaborate   =  "Web3 or crypto Project"
-      |            looking.for.help         =  "Blockchain"
+      |            currently.learning       =  " New things"
       |
       |        def say_hi(self):
       |            print( " Thanks for dropping by, hope you find some of my work interesting. " )
       |
       |        def reachOut_to_me(self):
-      |            self.Website               = https://bio.link/bhawna
-      │            self.Twitter               = https://twitter.com/Bhawna1203
+      |            self.Website               = https://bio.link/ConnectBhawna
+      │            self.Twitter               = https://twitter.com/ConnectBhawna
       │            self.Telegram              = https://telegram.me/bhawna
       |            self.Youtube               = https://www.youtube.com/channel/UCmpuoxmNdZp0ybVaC70KiKg
       |
@@ -35,12 +33,15 @@
 <a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"></a>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="90" >
-<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="90" ></a><br>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="90" ></a>
+<a href="#"><img at="Vue Js" src="https://vuejs.org/images/logo.png" width="30" height="30"></a>
+      <br>
 
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3">
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff">
 <a href="#"><img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<a href="#"><img at="React Js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" width="30" height="30"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
   <br>
      
