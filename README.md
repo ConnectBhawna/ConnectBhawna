@@ -13,7 +13,7 @@
       |            currently.learning       =  " New things"
       |
       |        def say_hi(self):
-      |            print( " Thanks for dropping by, hope you find some of my work interesting. " )
+      |            print( " Thanks for dropping by, hope you find some of my interesting work. " )
       |
       |        def reachOut_to_me(self):
       |            self.Website               = https://bio.link/ConnectBhawna
