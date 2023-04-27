@@ -9,8 +9,8 @@
       |        def __init__(self):
       |            self.name                =  "Bhawna "
       |            self.language_spoken     =  ["hi_IN", "en_US"]
-      |            currently.working        =  " Side Project"
-      |            currently.learning       =  " New things"
+      |            currently.working        =  " Side Project "
+      |            currently.learning       =  " Kotlin "
       |
       |        def say_hi(self):
       |            print( " Thanks for dropping by, hope you find some of my interesting work. " )
