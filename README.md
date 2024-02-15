@@ -1,27 +1,49 @@
 
 ```
+
 📂 ~/git:(master) ⚡
-❯❯❯ cat ~/whoami🙋‍♂️.md
-──────┬──────────────────────────────────────────────────────────────
-      │ File: /home/bhawna/whoami🙋‍♂️.md
-──────┼──────────────────────────────────────────────────────────────
-      |  class Developer:
-      |        def __init__(self):
-      |            self.name                =  "Bhawna "
-      |            self.language_spoken     =  ["hi_IN", "en_US"]
-      |            currently.working        =  " Side Project "
-      |            currently.learning       =  " Kotlin "
-      |
-      |        def say_hi(self):
-      |            print( " Thanks for dropping by, hope you find some of my interesting work. " )
-      |
-      |        def reachOut_to_me(self):
-      |            self.Website               = https://bio.link/ConnectBhawna
-      │            self.Twitter               = https://twitter.com/ConnectBhawna
-      │            self.Telegram              = https://telegram.me/bhawna
-      |            self.Youtube               = https://www.youtube.com/channel/UCmpuoxmNdZp0ybVaC70KiKg
-      |
-──────┴──────────────────────────────────────────────────────────────
+❯❯❯ ~/whoami🙋‍♂️.rs
+
+impl AboutMe
+{
+    fn say_hi() & str{
+      " Thanks for dropping by, hope you find some of my interesting work. "
+    }
+    
+    fn getInformation()-> Info {
+       Info {
+          name:  "Bhawna ",
+          anguage_spoken:  ["hi_IN", "en_US"],
+          Working: " Collabora ",
+          Learning: " Golang ",
+       }
+
+    }
+
+    fn getCurrentDegree() -> Degree {
+        Degree {
+            course: "Master in Computer Science",
+            onGoing : true,
+        }
+    }
+
+    fn getMyLinks() -> Vec<&str> {
+        vec ![
+            "https://linktr.ee/ConnectBhawna",
+            "https://twitter.com/ConnectBhawna",
+            "https://www.youtube.com/@ConnectBhawna",
+            "https://www.linkedin.com/in/connectbhawna/"
+            "https://github.com/ConnectBhawna"
+        ]
+    }
+
+    fn getFutureGoal() -> &str
+    {
+        "Learn more about Rust,Golang and NodeJS."
+    }
+}
+
+
 📂 ~/code
 ❯❯❯
 ```
